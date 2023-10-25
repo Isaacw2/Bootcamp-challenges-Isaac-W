@@ -23,4 +23,3 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-click to visit website:https://isaacw2.github.io/Bootcamp-challenges-Isaac-Weisshaupt/
